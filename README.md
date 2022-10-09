@@ -11,3 +11,5 @@ Todo:
 -add contact page functionality
 -add portfolio page
 -update links on nav bar
+
+![Picture of the example](https://github.com/bernales/portfolio-website-example/blob/main/portfolio-example.png)
